@@ -39,9 +39,9 @@ A passionate developer with a love for creating innovative solutions and contrib
 ---
 
 ### 📊 GitHub Stats:
-![Abdelghani's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdelghaniELAOD&show_icons=true&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbdelghaniELAOD&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelghaniELAOD&layout=compact&theme=dark)
+![Abdelghani's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdelghaniELAOUD&show_icons=true&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbdelghaniELAOUD&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelghaniELAOUD&layout=compact&theme=dark)
 
 ---
 
