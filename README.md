@@ -12,7 +12,7 @@ A passionate developer with a love for creating innovative solutions and contrib
 - 💼 I’m currently working on: Full-stack projects using React, Node.js, and Python.
 - 🤔 I’m looking for help with: Diving deeper into cloud solutions and best practices.
 - 💬 Ask me about: Web development, open-source contributions, and coding tips.
-- 📫 How to reach me: [abdelghani@example.com](mailto:abdelghani@example.com)
+- 📫 How to reach me: [abdelghani@example.com](mailto:abdelghanielaoud@gmail.com)
 - ⚡ Fun fact: I enjoy merging creativity with technology to build unique projects.
 
 ---
