@@ -1,47 +1,28 @@
-# Hi there 👋, I'm Abdelghani!
+# Abdelghani Elaoud
 
-A passionate developer with expertise in building robust, scalable solutions and a love for IoT, machine learning, and web development.
+**Java you can run: a chat window, a printed timetable, a box around a face, and a personality test that asks a model on your machine.**
 
-![Profile Views](https://komarev.com/ghpvc/?username=AbdelghaniELAOD&style=flat-square)
+The programs below are the public ones. Each README is the path through that program, with the screen or the file it actually produces.
 
----
+## Work
 
-### 🚀 About Me
-- 🌱 I’m currently learning: Advanced cloud computing, embedded systems, and DevOps tools.
-- 💼 I’m currently working on: Full-stack and IoT projects using Java, Spring Boot, Python, and Flutter.
-- 🤔 I’m looking for help with: Deepening my understanding of SAP integration and cloud solutions.
-- 💬 Ask me about: Full-stack development, ERP systems, or IoT projects.
-- 📫 How to reach me: [abdelghanielaoud@gmail.com](mailto:abdelghanielaoud@gmail.com)
-- ⚡ Fun fact: I enjoy merging creativity with technology to build unique and impactful solutions.
+- [Personality-analyser](https://github.com/AbdelghaniElaoud/Personality-analyser). Fifty Big Five questions, five pages, then a local model writes the profile.
+- [Chat-app](https://github.com/AbdelghaniElaoud/Chat-app). Register, get enabled, add a friend, and send a line that lands on the right.
+- [HumanFaceDetector](https://github.com/AbdelghaniElaoud/HumanFaceDetector). Point a webcam at a face and get a live box around it.
+- [MatlabCAM](https://github.com/AbdelghaniElaoud/MatlabCAM). Turn a flat-part DXF into tool positions and G-code, in MATLAB.
+- [JakartaEESchoolManagement](https://github.com/AbdelghaniElaoud/JakartaEESchoolManagement). Store a student's courses and weekly hours, then print the timetable.
+- [bugTracking](https://github.com/AbdelghaniElaoud/bugTracking). File a bug, attach the proof, and keep it on the project it belongs to.
+- [CalculatorWithSwing](https://github.com/AbdelghaniElaoud/CalculatorWithSwing). Digits, four operations, square, square root, and log base 2.
+- [E-Pharmacy](https://github.com/AbdelghaniElaoud/E-Pharmacy). Order medicines online. The Angular side is [E-Pharmacy-front-end](https://github.com/AbdelghaniElaoud/E-Pharmacy-front-end).
+- [CloudinaryService](https://github.com/AbdelghaniElaoud/CloudinaryService). A REST service that stores files through Cloudinary.
 
----
+Java, Swing, Spring Boot, Angular, Python, MySQL. The personality test talks to Ollama.
 
-### 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelghani-el-aoud-94b09a210/) 
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/AbdelghaniELAOD) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17652713) 
+## Reach me
 
+[abdelghanielaoud@gmail.com](mailto:abdelghanielaoud@gmail.com)
 
----
+[LinkedIn](https://www.linkedin.com/in/abdelghani-el-aoud-94b09a210/) · [Behance](https://behance.net/AbdelghaniELAOD) · [Stack Overflow](https://stackoverflow.com/users/17652713)
 
-### 💻 Languages and Tools:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
-
-### 📊 GitHub Stats:
-![Abdelghani's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdelghaniELAOUD&show_icons=true&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbdelghaniELAOUD&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelghaniELAOUD&layout=compact&theme=dark)
-
----
-
-⭐️ From [Abdelghani](https://github.com/AbdelghaniELAOD)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdelghaniElaoud&show_icons=true&hide_border=true&bg_color=ffffff)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelghaniElaoud&layout=compact&hide_border=true&bg_color=ffffff)
